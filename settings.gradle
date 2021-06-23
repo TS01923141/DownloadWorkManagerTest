@@ -1,0 +1,2 @@
+rootProject.name = "DownloadWorkManagerTest"
+include ':app'
